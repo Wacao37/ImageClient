@@ -15,6 +15,7 @@ namespace Web
     /// </summary>
     /// llll
     /// dfdfds
+    /// //谷歌
     public class Server : IHttpHandler
     {
         HttpContext context;
